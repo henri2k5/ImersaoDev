@@ -1,0 +1,35 @@
+body {
+  font-family: system-ui;
+  background: radial-gradient(circle, rgb(16, 72, 117), rgb(22, 21, 22));
+  color: lightblue;
+  text-align: center;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  margin-top: 8px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: white; 
+  text-decoration: none;
+  background-color: transparent; 
+  border: 2px solid white;
+  border-radius: 8px;
+  font-size: 16px; 
+  transition: all 0.5s ease-in-out;
+}
+
+.button:hover {
+  color: black;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+}
+
+.button div {
+  display: flex;
+  font-size: 18px; 
+  letter-spacing: -0.02em; 
+  justify-content: center;
+}

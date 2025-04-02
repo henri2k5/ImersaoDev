@@ -1,6 +1,6 @@
 body {
     font-family: system-ui;
-    background: radial-gradient(circle, rgb(16, 72, 117), rgb(22, 21, 22));
+    background-image: radial-gradient(circle, rgb(16, 72, 117), rgb(22, 21, 22));
     color: lightblue;
     text-align: center;
   }

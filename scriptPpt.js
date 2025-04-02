@@ -1,13 +1,5 @@
 function pptComecar() {
-    idade = prompt("Quantos anos você tem?");
-    if (idade < 17) {
-        alert("Você não pode acessar o site");
-    } else {
-        alert("Você pode acessar o site");
-    }
-
     //Código do jogo
-    if (idade >= 18) {
         pptJogador = prompt("Digite 1-Pedra, 2-papel ou 3-tesoura");
         pptComputador = Math.floor(Math.random() * 3) + 1;
         console.log("A escolha do computador foi: " + pptComputador)
@@ -59,7 +51,6 @@ function pptComecar() {
                 alert("Jogador venceu, Computador escolheu papel")
             }      
         }
-    }
 }
 
 

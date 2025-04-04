@@ -43,13 +43,16 @@ console.log("Final Viloes:"+ viloes )
 
 if (forcaP > forcaV){
   alert("Seu time é muito forte! Você ganhou a disputa de cabo de guerra! Sua força foi: " + forcaP)
+  alert("Seus adversários foram: " + viloes)
 }
 else{
   if (forcaP < forcaV){
   alert("Seu time é muito fraco! Você perdeu a disputa de cabo de guerra! A força do computador foi: " + forcaV)
+  alert("Seus adversários foram: " + viloes)
 }
   else{
     alert("Ambos os times tem a mesma força! Vocês empataram")
+    alert("Seus adversários foram: " + viloes)
   }
 }
 }

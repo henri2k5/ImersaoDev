@@ -1,8 +1,8 @@
 <h1 align="left">
-  🚀 Imersão Dev 9ª Edição
+  🚀Imersão Dev 9ª Edição
 </h1>
 
-### 💡 Descrição
+### 💡Descrição
 
 <p align="left">
 Durante essa imersão de 5 dias, a <strong>Alura</strong> buscou demonstrar comandos simples através do <strong>JavaScript</strong>. Eles optaram por utilizar a ferramenta do <strong>CodePen</strong>, dando uma base pronta de <strong>HTML</strong> e <strong>CSS</strong>, mas eu preferi manter o uso do <strong>Visual Studio Code</strong>, com o qual já tenho mais familiaridade.<br><br>
@@ -10,7 +10,7 @@ Dessa forma, criei meus próprios arquivos <strong>HTML</strong>, <strong>CSS</s
 </p>
 <br>
 <h2 align="left">
-  🛠️ Tecnologias usadas
+  🛠️Tecnologias usadas
 </h2>
 
 <div align="left">
@@ -23,7 +23,7 @@ Dessa forma, criei meus próprios arquivos <strong>HTML</strong>, <strong>CSS</s
 </div>
 <br>
 <h2 align="left">
-  📦 Como executar
+  📦Como executar
 </h2>
 
 <p align="left">

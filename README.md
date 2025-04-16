@@ -1,5 +1,5 @@
 <h1 align="left">
-  🚀Imersão Dev 9ª Edição
+  🚀 Imersão Dev 9ª Edição
 </h1>
 
 ### 💡Descrição
@@ -32,3 +32,4 @@ Basta abrir os arquivos HTML no navegador ou utilizar uma extensão como Live Se
 <p>
   Caso queira apenas visualizar o projeto funcionando, <a href="https://henri2k5.github.io/ImersaoDev/" target="_blank">clique aqui</a> para acessar via GitHub Pages.
 </p>
+
